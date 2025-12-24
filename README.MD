@@ -70,4 +70,4 @@ Berdasarkan Confusion Matrix, model paling baik dalam mengenali kelas **Bakso da
 ## 🤝 Credits
 ### Project ini dibuat oleh **Muhammad Rizkiyanto**.
 ### Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-rizkiyanto/).
-### Inspire Code: [Kaggle]https://www.kaggle.com/code/muhammadfaizan65/fruits-and-vegetables-image-recognition-vgg16 
+### Inspire Code: [Kaggle](https://www.kaggle.com/code/muhammadfaizan65/fruits-and-vegetables-image-recognition-vgg16). 
