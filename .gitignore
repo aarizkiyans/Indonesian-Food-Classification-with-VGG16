@@ -1,0 +1,11 @@
+# Ignore datasets
+*.zip
+*.rar
+*.tar
+dataset/
+dataset_unzipped/
+sample_data/
+/content/
+
+# Jupyter checkpoints
+.ipynb_checkpoints
