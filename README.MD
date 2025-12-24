@@ -68,6 +68,6 @@ Berdasarkan Confusion Matrix, model paling baik dalam mengenali kelas **Bakso da
 4.  Pastikan dataset sudah terhubung (sesuaikan path direktori).
 
 ## 🤝 Credits
-# Project ini dibuat oleh **Muhammad Rizkiyanto**.
-# Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-rizkiyanto/).
-# Inspire Code: [Kaggle]https://www.kaggle.com/code/muhammadfaizan65/fruits-and-vegetables-image-recognition-vgg16 
+### Project ini dibuat oleh **Muhammad Rizkiyanto**.
+### Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-rizkiyanto/).
+### Inspire Code: [Kaggle]https://www.kaggle.com/code/muhammadfaizan65/fruits-and-vegetables-image-recognition-vgg16 
