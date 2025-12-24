@@ -47,12 +47,12 @@ Berikut adalah hasil evaluasi model pada data uji (Test Set):
 *> Grafik di atas menunjukkan peningkatan akurasi dan penurunan loss seiring bertambahnya epoch, terutama setelah tahap Fine-Tuning dimulai.*
 
 ### 3. Classification Report
-![Classification Report](Images/Classification_Report.png.png) 
+![Classification Report](Images/Classification_Report.png) 
 ![Classification Report](Images/Confusion_Matrix.png)
 Berdasarkan Confusion Matrix, model paling baik dalam mengenali kelas **Bakso dan Pempek**, namun sedikit kesulitan membedakan antara **Gudeg vs Rendang**, **Rendang vs Rawon**.
 
 ### 4. Sample Predictions
-![Prediction Sample](Images/Predicted)
+![Prediction Sample](Images/Predicted.png)
 *> Contoh hasil prediksi model pada gambar acak.*
 
 ## How to Run
