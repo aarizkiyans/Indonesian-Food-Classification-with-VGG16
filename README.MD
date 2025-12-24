@@ -58,7 +58,7 @@ Berdasarkan Confusion Matrix, model paling baik dalam mengenali kelas **Bakso da
 ## How to Run
 1.  Clone repository ini:
     ```bash
-    git clone [https://github.com/username-lo/indonesian-food-classification.git](https://github.com/username-lo/indonesian-food-classification.git)
+    git clone [https://github.com/aarizkiyans/Indonesian-Food-Classification-with-VGG16.git](https://github.com/aarizkiyans/Indonesian-Food-Classification-with-VGG16.git)
     ```
 2.  Install library yang dibutuhkan:
     ```bash
