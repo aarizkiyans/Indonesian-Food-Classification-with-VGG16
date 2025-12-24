@@ -40,19 +40,19 @@ Berikut adalah hasil evaluasi model pada data uji (Test Set):
 *> Model menunjukkan performa yang stabil dengan selisih akurasi Training dan Validation yang kecil, menandakan model **Good Fit** (tidak Overfitting).*
 
 ### 2. Training History
-![Training Graph](images/Model_Acc.png)
-![Training Graph](images/Model_Loss.png)
-![Training Graph](images/Fine_Tuning_Acc.png)
-![Training Graph](images/Fine_Tuning_Loss.png)
+![Training Graph](Images/Model_Acc.png)
+![Training Graph](Images/Model_Loss.png)
+![Training Graph](Images/Fine_Tuning_Acc.png)
+![Training Graph](Images/Fine_Tuning_Loss.png)
 *> Grafik di atas menunjukkan peningkatan akurasi dan penurunan loss seiring bertambahnya epoch, terutama setelah tahap Fine-Tuning dimulai.*
 
 ### 3. Classification Report
-![Classification Report](images/Classification_Report.png.png) 
-![Classification Report](images/Confusion_Matrix.png)
+![Classification Report](Images/Classification_Report.png.png) 
+![Classification Report](Images/Confusion_Matrix.png)
 Berdasarkan Confusion Matrix, model paling baik dalam mengenali kelas **Bakso dan Pempek**, namun sedikit kesulitan membedakan antara **Gudeg vs Rendang**, **Rendang vs Rawon**.
 
 ### 4. Sample Predictions
-![Prediction Sample](images/Predicted)
+![Prediction Sample](Images/Predicted)
 *> Contoh hasil prediksi model pada gambar acak.*
 
 ## How to Run
@@ -68,6 +68,6 @@ Berdasarkan Confusion Matrix, model paling baik dalam mengenali kelas **Bakso da
 4.  Pastikan dataset sudah terhubung (sesuaikan path direktori).
 
 ## 🤝 Credits
-Project ini dibuat oleh **Muhammad Rizkiyanto**.
-Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-rizkiyanto/).
-Inspire Code: [Kaggle]https://www.kaggle.com/code/muhammadfaizan65/fruits-and-vegetables-image-recognition-vgg16 
+# Project ini dibuat oleh **Muhammad Rizkiyanto**.
+# Connect with me on [LinkedIn](https://www.linkedin.com/in/muhammad-rizkiyanto/).
+# Inspire Code: [Kaggle]https://www.kaggle.com/code/muhammadfaizan65/fruits-and-vegetables-image-recognition-vgg16 
